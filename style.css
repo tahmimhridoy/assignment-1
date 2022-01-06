@@ -1,5 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
 }
 .container{
     display: flex;
@@ -32,7 +34,7 @@ body{
 }
 .btn{
     text-decoration: none;
-    background: #fbb53a;
+    background: rgb(255, 45, 80);
     padding: 10px 30px;
     border-radius: 5px;
     color: white;
@@ -77,4 +79,48 @@ body{
 }
 .change-color{
     color: #3a3a3a;
+}
+.develop-img img{
+    width: 100%;
+}
+.develop-img{
+    width: 400px;
+    margin-right: 70px;
+}
+.develop-docs{
+    width: 630px;
+    margin-top: 50px;
+}
+.develop-docs h1{
+    font-size: 35px;
+    line-height: 25px;
+}
+.develop-section{
+    margin: 100px 0;
+}
+.extra-class {
+    margin-bottom: 40px;
+    font-size: 18px;
+    color: #3a3a3a;
+}
+.mar-left{
+    margin-left: 70px;
+    margin-right: 0;
+}
+.known-section{
+    margin: 100px 0;
+}
+.footer-section{
+    background: black;
+    color: white;
+}
+.footer-section h1 {
+    width: 210px;
+    margin: auto;
+    padding-top: 50px;
+}
+.footer-section p {
+    width: 493px;
+    margin: auto;
+    padding-bottom: 40px;
 }
