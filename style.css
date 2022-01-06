@@ -1,0 +1,46 @@
+h1{
+    font-family: 'Source Serif Pro', serif;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    display: flex;
+    width: 1100px;
+    margin: auto;
+}
+.set-width{
+    width: 450px;
+    margin: 50px 20px;
+}
+.set-width img{
+    width: 100%;
+    margin-left: 100px;
+    margin-top: -90px;
+}
+.resize{
+    font-size: 60px;
+    border-left: 5px solid rgb(162, 221, 1);
+    padding-left: 10px;
+    color: #333333;
+}
+.set-color{
+    color: rgb(243, 104, 127);
+}
+.para-color{
+    color: #3E3E3E;
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+.btn{
+    text-decoration: none;
+    background: #fbb53a;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+}
+.exploreme{
+    font-size: 14px;
+    color: #3b3b3b;
+   margin-top: 40px;
+}
