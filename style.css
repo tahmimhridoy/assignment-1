@@ -35,7 +35,7 @@ body{
 .btn{
     text-decoration: none;
     background: rgb(255, 45, 80);
-    padding: 10px 30px;
+    padding: 15px 30px;
     border-radius: 5px;
     color: white;
 }
@@ -79,6 +79,7 @@ body{
 }
 .change-color{
     color: #3a3a3a;
+    text-align: justify;
 }
 .develop-img img{
     width: 100%;
