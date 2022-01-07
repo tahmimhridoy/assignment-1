@@ -34,10 +34,12 @@ body{
 }
 .btn{
     text-decoration: none;
-    background: #FF5959;
+    background: tomato;
     padding: 15px 30px;
     border-radius: 5px;
     color: white;
+    font-size: 18px;
+    font-weight: 400;
 }
 .exploreme{
     font-size: 14px;
@@ -84,6 +86,12 @@ body{
 .develop-img img{
     width: 100%;
 }
+.h1-colors{
+    color: #13103A;
+}
+#develop-color{
+    color: rgb(245, 83, 88);
+}
 .develop-img{
     width: 400px;
     margin-right: 70px;
@@ -103,6 +111,10 @@ body{
     margin-bottom: 40px;
     font-size: 18px;
     color: #3a3a3a;
+    text-align: justify;
+}
+.h1-color{
+    color: rgb(4, 180, 95);
 }
 .mar-left{
     margin-left: 70px;
@@ -115,25 +127,21 @@ body{
     background: black;
     color: white;
 }
+.sidebar{
+    border-left: 5px solid #FF5959;
+    padding-left: 10px;
+}
 .footer-section h1 {
     width: 210px;
     margin: auto;
     padding-top: 50px;
+    font-family: 'Source Serif Pro', serif;
 }
 .footer-section p {
     width: 493px;
     margin: auto;
     padding-bottom: 40px;
 }
-/* .bgcolor1{
-    background: #5bccf6;
-}
-.bgcolor2{
-    background: pink;
-}
-.bgcolor3{
-    background: #c8d8e4;
-} */
 .own-width{
     width: 515px;
     box-shadow: 2px 2px 30px #766c6c;
@@ -159,6 +167,8 @@ body{
     width: 412px;
     margin:  auto;
     margin-bottom: -60px;
+    color: #FFAD5A;
+    font-family: 'Source Serif Pro', serif;
 }
 .isntructor-image {
     width: 200px;
@@ -166,10 +176,6 @@ body{
     margin-top: -35px;
 }
 .sign1{
-    text-align: right;
-    padding-top: 30px;
-}
-p.sign2 {
     text-align: right;
     padding-top: 30px;
 }
@@ -181,9 +187,7 @@ p.sign2 {
     font-size: 30px;
     color: #FF6659;
 }
-.my-bio p {
+.paragraph-color{
     color: #7a7a7a;
-}
-.instructor-bio p {
-    color: #7a7a7a;
+    text-align: justify;
 }
