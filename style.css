@@ -34,7 +34,7 @@ body{
 }
 .btn{
     text-decoration: none;
-    background: rgb(255, 45, 80);
+    background: #FF5959;
     padding: 15px 30px;
     border-radius: 5px;
     color: white;
@@ -54,13 +54,13 @@ body{
     margin-top: -3px;
 }
 .bgcolor1{
-    background: #5bccf6;
+    background: #a4dff5;
 }
 .bgcolor2{
-    background: pink;
+    background: rgb(253, 227, 231);
 }
 .bgcolor3{
-    background: #c8d8e4;
+    background: #dae9f5;
 }
 .mi-vi-go img{
     width: 50%;
@@ -124,4 +124,66 @@ body{
     width: 493px;
     margin: auto;
     padding-bottom: 40px;
+}
+/* .bgcolor1{
+    background: #5bccf6;
+}
+.bgcolor2{
+    background: pink;
+}
+.bgcolor3{
+    background: #c8d8e4;
+} */
+.own-width{
+    width: 515px;
+    box-shadow: 2px 2px 30px #766c6c;
+    margin: 100px 0;
+    padding: 20px;
+}
+.myself{
+    margin-right: 70px;
+}
+.my-img img{
+    width: 200px;
+    text-align: center;
+}
+.isntructor-image img{
+    width: 200px;
+}
+.my-img {
+    width: 200px;
+    margin: auto;
+}
+.title2 {
+    font-size: 35px;
+    width: 412px;
+    margin:  auto;
+    margin-bottom: -60px;
+}
+.isntructor-image {
+    width: 200px;
+    margin: auto;
+    margin-top: -35px;
+}
+.sign1{
+    text-align: right;
+    padding-top: 30px;
+}
+p.sign2 {
+    text-align: right;
+    padding-top: 30px;
+}
+.my-bio h1 {
+    font-size: 30px;
+    color: #F59560;
+}
+.instructor-bio h1 {
+    font-size: 30px;
+    color: #FF6659;
+}
+.my-bio p {
+    color: #7a7a7a;
+}
+.instructor-bio p {
+    color: #7a7a7a;
 }
